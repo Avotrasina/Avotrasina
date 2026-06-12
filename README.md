@@ -2,7 +2,8 @@
 
 > Backend-focused FullStack Developer · JavaScript / TypeScript · Master's Student @ ENI Fianarantsoa
 
-I enjoy building clean, efficient APIs and web applications. Currently pursuing a **Master 2 in Software Engineering & Databases**, and actively looking for an end-of-studies internship where I can apply my skills on real-world projects.
+I enjoy building clean, efficient APIs and web applications. Currently pursuing a Master 2 in Software Engineering & Databases, and open to internship or full-time opportunities where I can contribute to meaningful projects and keep growing as a developer.
+
 
 ---
 
