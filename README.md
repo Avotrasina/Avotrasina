@@ -24,7 +24,6 @@ I enjoy building clean, efficient APIs and web applications. Currently pursuing 
 **Frontend**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
@@ -84,9 +83,10 @@ Co-developed an HR management application with ergonomic JavaFX interfaces and s
 
 ## Certifications
 
-- 🥇 [HackerRank – SQL](https://www.hackerrank.com/certificates/b6feb8da54e8) · 2023
-- 🥇 [HackerRank – Problem Solving](https://www.hackerrank.com/certificates/81139c552948) · 2023
-- 📋 Orange Digital Center – Project Management Fundamentals · 2024
+- [HackerRank – SQL](https://www.hackerrank.com/certificates/b6feb8da54e8) · 2023
+- [HackerRank – Problem Solving](https://www.hackerrank.com/certificates/81139c552948) · 2023
+- Orange Digital Center – Project Management Fundamentals · 2024
+- [CodinGame - C++ Problem Solvin](https://www.codingame.com/certification/pvv9FCF0FYT3ATQmQZ_hlg) · 2024
 
 ---
 
